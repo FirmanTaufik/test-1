@@ -1,0 +1,26 @@
+ {
+  "retcode": 0,
+  "message": "Success",
+  "meta": {
+    "request_id": "abc123",
+    "timestamp": 1715061912,
+    "process_time": "0.123s"
+  },
+  "data": {
+    "all": [
+      {
+        "series_id": "s001",
+        "title": "Series One",
+        "chapters": [
+          {
+            "chapter_id": "c001",
+            "chapter_number": 1
+          }
+        ]
+      }
+    ],
+    "manga": [],
+    "manhwa": [],
+    "manhua": []
+  }
+} 
